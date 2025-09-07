@@ -46,6 +46,7 @@
 - Kode membutuhkan akses ke Gmail dan Google Spreadsheet.
 - Pastikan Anda telah memberikan izin yang diperlukan pada Apps Script.
 - Ubah `TRANSACTION_SUBJECTS` jika ada format subjek email yang berbeda.
+- Kode ini optimal untuk mengecek semua riwayat transaksi dari Bank BSI melalui Aplikasi BYOND by BSI, kamu bisa mengubah subjek nya berdasarkan pola yang diterima melalui e-mail dari bank yang digunakan
 
 ---
 
