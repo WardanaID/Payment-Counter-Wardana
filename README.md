@@ -8,12 +8,18 @@
   Mengambil data transaksi dari email dengan subjek tertentu seperti pembayaran QRIS, Shopee, Tokopedia, tarik tunai, dan top up e-wallet.
 - **Rekapitulasi Transaksi:**  
   Menghitung total nominal per jenis transaksi dan keseluruhan, serta memformat otomatis ke dalam bentuk tabel di Google Spreadsheet.
+  
+  <img width="389" height="254" alt="image" src="https://github.com/user-attachments/assets/cdde84a1-150c-49fe-a7a1-ce900a295ee3" />
+
 - **Visualisasi Ringkasan dan Detail:**  
   - Sheet `Ringkasan Transaksi`: Menampilkan total per jenis transaksi dan total keseluruhan.
   - Sheet `Data Transaksi`: Menampilkan detail setiap transaksi, tautan ke email, serta rekap per jenis dan keseluruhan.
   - Sheet khusus per jenis transaksi, misal: `Pembayaran Shopee Berhasil`, berisi data transaksi jenis tersebut.
 - **Formatting Otomatis:**  
   Semua data dan nominal diformat secara otomatis dengan simbol Rupiah dan border tabel.
+  
+  <img width="890" height="470" alt="image" src="https://github.com/user-attachments/assets/2096fc13-ebb6-4885-a7e3-f68f2721e855" />
+
 
 ## Cara Kerja
 
